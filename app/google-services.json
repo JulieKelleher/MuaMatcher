@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880214092122",
+    "firebase_url": "https://muamatcher.firebaseio.com",
+    "project_id": "muamatcher",
+    "storage_bucket": "muamatcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880214092122:android:f0e2aa4355ee0dc5",
+        "android_client_info": {
+          "package_name": "com.example.julie.muamatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880214092122-cok7niv4ckpiithik81q0nd22boo65l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julie.muamatcher",
+            "certificate_hash": "2ad86c4047c7a43d50048e456586d1b7ff56af1a"
+          }
+        },
+        {
+          "client_id": "880214092122-g04ajuqgtbi7q8ta5sl1nai42sgj49si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vRHCWk0AeVSLlvqbasDlVw3fUMzKgbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880214092122-g04ajuqgtbi7q8ta5sl1nai42sgj49si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
