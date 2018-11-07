@@ -16,10 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".Registration"
-            android:label="@string/title_activity_registration"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".Registration" />
+        <activity android:name=".RegCust1" />
+        <activity android:name=".RegMua1" />
+        <activity android:name=".RegMua2" />
+        <activity android:name=".RegMua3" />
+        <activity android:name=".HomeMua"></activity>
     </application>
 
 </manifest>

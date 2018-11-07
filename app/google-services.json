@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:880214092122:android:f0e2aa4355ee0dc5",
+        "mobilesdk_app_id": "1:880214092122:android:84f23d04842bcbbb",
         "android_client_info": {
           "package_name": "com.example.julie.muamatcher"
         }
       },
       "oauth_client": [
         {
-          "client_id": "880214092122-cok7niv4ckpiithik81q0nd22boo65l7.apps.googleusercontent.com",
+          "client_id": "880214092122-env7kten8ft6nk2n45qngmq0mbgdleuo.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.julie.muamatcher",
